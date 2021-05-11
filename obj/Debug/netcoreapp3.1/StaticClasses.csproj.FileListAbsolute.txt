@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.genruntimeconfig.cache
